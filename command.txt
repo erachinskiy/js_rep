@@ -1,0 +1,4 @@
+git commit --amend
+git mv file1 file2
+git diff
+git rm
